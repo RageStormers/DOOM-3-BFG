@@ -3,8 +3,8 @@ Doom 3 BFG Edition GPL Source Code
 
 This file contains the following sections:
 
-GENERAL NOTES
-LICENSE
+* GENERAL NOTES
+* LICENSE
 
 GENERAL NOTES
 =============
@@ -28,7 +28,7 @@ A project file for Microsoft Visual Studio 2010 is provided in neo\doom3.sln
 We expect the solution file is compatible with the Express releases
 
 You will need the Microsoft DirectX SDK installed as well.
-If it does not reside in "C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)"
+If it does not reside in `C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)`
 you will need to update the project files accordingly.
 
 
